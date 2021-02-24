@@ -1,0 +1,9 @@
+#server
+server:
+  port: 8081
+  error:
+    include-stacktrace: always
+#profile
+spring:
+  profiles:
+    active: prd

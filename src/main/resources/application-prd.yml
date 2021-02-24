@@ -1,0 +1,12 @@
+#images
+app:
+  goods:
+    imagesUrlHost: http://file.lhdtest.com/goods
+    imagesOrigDir: /data/estore/file/html/goods/images
+    imagesTmbDir: /data/estore/file/html/goods/tmb
+    extendNames:
+        - jpg
+        - gif
+        - png
+        - webp
+    extendNames2: jpg,gif,png

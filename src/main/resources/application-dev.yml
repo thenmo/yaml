@@ -1,0 +1,12 @@
+#images
+app:
+  goods:
+    imagesUrlHost: http://127.0.0.1:81/goods
+    imagesOrigDir: /data/file/html/goods/images
+    imagesTmbDir: /data/file/html/goods/tmb
+    extendNames:
+      - jpg
+      - gif
+      - png
+      - webp
+    extendNames2: jpg,gif,png
